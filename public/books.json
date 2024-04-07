@@ -1,0 +1,146 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://i.ibb.co/SQX0cWt/OJK9410.jpg",
+        "review": "A captivating portrayal of the Jazz Age's decadence and disillusionment. Fitzgerald's narrative prowess shines in this timeless classic, exploring themes of love, wealth, and societal decay with elegance and depth.",
+        "totalPages": 180,
+        "rating": 4.5,
+        "category": "Fiction",
+        "tags": [
+            "Classic",
+            "Romance"
+        ],
+        "publisher": "Scribner",
+        "yearOfPublishing": 1925
+    },
+    {
+        "bookId": 2,
+        "bookName": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "image": "https://i.ibb.co/jMr5dKv/7492664.jpg",
+        "review": "Harper Lee's poignant narrative confronts racial injustice and the loss of innocence in the American South, leaving an indelible mark on readers with its powerful portrayal of societal prejudices.",
+        "totalPages": 281,
+        "rating": 4.8,
+        "category": "Fiction",
+        "tags": [
+            "Classic",
+            "Drama"
+        ],
+        "publisher": "J. B. Lippincott & Co.",
+        "yearOfPublishing": 1960
+    },
+    {
+        "bookId": 3,
+        "bookName": "1984",
+        "author": "George Orwell",
+        "image": "https://i.ibb.co/6JMFXWc/4824032.jpg",
+        "review": "Orwell's dystopian masterpiece offers a chilling glimpse into a totalitarian society, urging reflection on the dangers of unchecked power and surveillance in a gripping narrative that remains relevant today.",
+        "totalPages": 328,
+        "rating": 4.6,
+        "category": "Fiction",
+        "tags": [
+            "Dystopian",
+            "Political"
+        ],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949
+    },
+    {
+        "bookId": 4,
+        "bookName": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "image": "https://i.ibb.co/CvDbsdV/1101.jpg",
+        "review": "Salinger's poignant portrayal of teenage angst and alienation resonates with readers, exploring themes of identity and societal expectations with raw honesty and depth, making it a timeless coming-of-age classic.",
+        "totalPages": 224,
+        "rating": 4.3,
+        "category": "Fiction",
+        "tags": [
+            "Coming of Age",
+            "Psychological"
+        ],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 1951
+    },
+    {
+        "bookId": 5,
+        "bookName": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "image": "https://i.ibb.co/HpN1Mg5/225.jpg",
+        "review": "A delightful romantic comedy of manners that charms readers with its wit and timeless themes of love and social class, weaving a captivating narrative that continues to enchant audiences worldwide.",
+        "totalPages": 279,
+        "rating": 4.7,
+        "category": "Fiction",
+        "tags": [
+            "Romance",
+            "Classic"
+        ],
+        "publisher": "T. Egerton, Whitehall",
+        "yearOfPublishing": 1813
+    },
+    {
+        "bookId": 6,
+        "bookName": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "image": "https://i.ibb.co/jMr5dKv/7492664.jpg",
+        "review": "Tolkien's captivating adventure introduces readers to the enchanting world of Middle-earth, with its epic quest and rich mythology leaving an enduring impression on fantasy enthusiasts of all ages.",
+        "totalPages": 310,
+        "rating": 4.9,
+        "category": "Fantasy",
+        "tags": [
+            "Adventure",
+            "Quest"
+        ],
+        "publisher": "Allen & Unwin",
+        "yearOfPublishing": 1937
+    },
+    {
+        "bookId": 7,
+        "bookName": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "image": "https://i.ibb.co/6JMFXWc/4824032.jpg",
+        "review": "Collins' thrilling dystopian saga immerses readers in a world of survival and rebellion, exploring themes of power and sacrifice through the courageous Katniss Everdeen, making it a must-read for fans of dystopian fiction.",
+        "totalPages": 374,
+        "rating": 4.4,
+        "category": "Young Adult",
+        "tags": [
+            "Dystopian",
+            "Action"
+        ],
+        "publisher": "Scholastic Press",
+        "yearOfPublishing": 2008
+    },
+    {
+        "bookId": 8,
+        "bookName": "Gone Girl",
+        "author": "Gillian Flynn",
+        "image": "https://i.ibb.co/CvDbsdV/1101.jpg",
+        "review": "Flynn's gripping psychological thriller keeps readers on the edge of their seats with its intricate plot and shocking twists, delving into themes of marriage and deception in a dark and compelling narrative.",
+        "totalPages": 419,
+        "rating": 4.6,
+        "category": "Mystery",
+        "tags": [
+            "Suspense",
+            "Psychological"
+        ],
+        "publisher": "Crown Publishing Group",
+        "yearOfPublishing": 2012
+    },
+    {
+        "bookId": 9,
+        "bookName": "The Alchemist",
+        "author": "Paulo Coelho",
+        "image": "https://i.ibb.co/HpN1Mg5/225.jpg",
+        "review": "Coelho's allegorical tale of self-discovery and the pursuit of dreams inspires readers with its profound wisdom and universal themes of destiny and perseverance, making it a timeless masterpiece of philosophical adventure.",
+        "totalPages": 197,
+        "rating": 4.7,
+        "category": "Fiction",
+        "tags": [
+            "Philosophical",
+            "Adventure"
+        ],
+        "publisher": "HarperCollins",
+        "yearOfPublishing": 1988
+    }
+]
